@@ -16,4 +16,9 @@ public class Item
         Producto = producto;
         Cantidad = cantidad;
     }
+
+    public double SubTotal()
+    {
+        return Producto.Precio * Cantidad;
+    }
 }

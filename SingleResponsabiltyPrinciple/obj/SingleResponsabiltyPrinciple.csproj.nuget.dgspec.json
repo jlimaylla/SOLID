@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Csharp\\Intermedio\\SOLID\\SingleResponsabiltyPrinciple.Bad\\SingleResponsabiltyPrinciple.csproj": {}
+    "E:\\Projects\\Csharp\\Intermedio\\SOLID\\SingleResponsabiltyPrinciple\\SingleResponsabiltyPrinciple.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Csharp\\Intermedio\\SOLID\\SingleResponsabiltyPrinciple.Bad\\SingleResponsabiltyPrinciple.csproj": {
+    "E:\\Projects\\Csharp\\Intermedio\\SOLID\\SingleResponsabiltyPrinciple\\SingleResponsabiltyPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Csharp\\Intermedio\\SOLID\\SingleResponsabiltyPrinciple.Bad\\SingleResponsabiltyPrinciple.csproj",
+        "projectUniqueName": "E:\\Projects\\Csharp\\Intermedio\\SOLID\\SingleResponsabiltyPrinciple\\SingleResponsabiltyPrinciple.csproj",
         "projectName": "SingleResponsabiltyPrinciple",
-        "projectPath": "E:\\Projects\\Csharp\\Intermedio\\SOLID\\SingleResponsabiltyPrinciple.Bad\\SingleResponsabiltyPrinciple.csproj",
+        "projectPath": "E:\\Projects\\Csharp\\Intermedio\\SOLID\\SingleResponsabiltyPrinciple\\SingleResponsabiltyPrinciple.csproj",
         "packagesPath": "C:\\Users\\Scandal\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Csharp\\Intermedio\\SOLID\\SingleResponsabiltyPrinciple.Bad\\obj\\",
+        "outputPath": "E:\\Projects\\Csharp\\Intermedio\\SOLID\\SingleResponsabiltyPrinciple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Scandal\\AppData\\Roaming\\NuGet\\NuGet.Config",
